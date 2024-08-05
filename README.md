@@ -1,5 +1,4 @@
-# Jam-in-a-Box for Business Automation & Digital Labor
-
+# Jam-in-a-Box for IBM Security Verify
 ## Quick Start
 
 1. Select the lab(s) you are interested in in the left column of the table of the [Labs to Environments Mapping](#labs-to-environments-mapping) section
